@@ -29,11 +29,4 @@ Beyond code, I'm passionate about:
 
 ---
 
-## 📫 Let's Connect  
-
-- 📧 Email: hectorrios.tech@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/hectorrios05/)
-
----
-
 *Thanks for stopping by! Feel free to explore my repositories or reach out if you’d like to collaborate.* 🚀
