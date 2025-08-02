@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm Hector!
 
-<!--
-**Hrios05/Hrios05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer and problem-solver with a focus on software development, machine learning, AI, and leadership. I love building tools and experiences that make a difference. Whether it's designing intuitive user interfaces or engineering backend systems, I enjoy the challenge of bringing ideas to life.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Tech Stack  
+Here are some of the technologies and tools I work with:
+
+- **Languages**: JavaScript, Python, Java, C++
+- **Frameworks & Libraries**: React, Node.js, Express, Flask, TensorFlow
+- **Tools & Platforms**: Git, Docker, Firebase, MongoDB, Figma, VS Code
+
+---
+
+## 🌱 Interests & Hobbies  
+
+Beyond code, I'm passionate about:
+
+- 🧠 AI ethics and accessibility
+- 🎨 Digital art & design
+- 📚 Reading sci-fi & nonfiction
+- 🏃‍♂️ Running and hiking
+- 🎤 Cofounding a future club: LatinXInTech.
+
+---
+
+## 📫 Let's Connect  
+
+- 📧 Email: hectorrios.tech@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/hectorrios05/)
+
+---
+
+*Thanks for stopping by! Feel free to explore my repositories or reach out if you’d like to collaborate.* 🚀
