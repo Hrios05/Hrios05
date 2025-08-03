@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/bbe129d8-c400-435a-af64-d3b0869e8ef6" alt="pixelscapes_ Photo" width="700">
+<img src="https://github.com/user-attachments/assets/bbe129d8-c400-435a-af64-d3b0869e8ef6" alt="pixelscapes_ Photo" width="500">
 
 
 
